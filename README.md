@@ -1,4 +1,4 @@
-# Projet 2 — Analyse de la croissance économique en France (2000-2024)
+#Analyse de la croissance économique en France (2000-2024)
 
 Analyse descriptive avec R de la croissance annuelle du PIB réel français : statistiques, ruptures, périodes de croissance faible et forte, trois graphiques ggplot2.
 
